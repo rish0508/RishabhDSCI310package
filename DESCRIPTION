@@ -1,0 +1,10 @@
+Package: RishabhDSCI310package
+Title: Practice Package for DSCI 310
+Version: 0.0.0.9000
+Authors@R:
+    person("Rishabh", "Mathur", , "you@example.com", role = c("aut", "cre"))
+Description: A toy practice R package created for Assignment 5 packaging.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
